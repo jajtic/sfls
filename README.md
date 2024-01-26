@@ -20,9 +20,12 @@
 ## Usage
 
 - Run `main.py` and follow the instructions.
+  
 You **will need** to have a timings file inside `timings/` for each song you want sfls to work for.
+
 In case you don't have a timings file, you can make it yourself by running the `timingsCreator.py` and following the simple instructions.
 
 ## Quick note
 
 - sfls will keep doing its job until it reaches the first song for which it does not have the timings file
+- to stop sfls, alt+tab to the console and close it or wait for it to reach a song it doesn't have the timings file for
