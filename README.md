@@ -1,2 +1,2 @@
 # sfls
-Spotify Fullscreen Lyrics Switcher
+**S**potify **F**ullscreen **L**yrics **S**witcher
