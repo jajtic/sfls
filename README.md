@@ -7,7 +7,7 @@
 
 ## Requirements
 
-- Python 3 (tested on 3.10.6)
+- Python 3 (tested on 3.10.6 and 3.12.1)
 - Spotify Desktop app
 - Spotify Premium (free version doesn't have the fullscreen player)
 
